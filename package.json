@@ -17,6 +17,7 @@
     "@nuxtjs/proxy": "^2.1.0",
     "@nuxtjs/pwa": "^3.0.2",
     "core-js": "^3.6.5",
+    "js-cookie": "^3.0.0",
     "nuxt": "^2.14.6",
     "rss-parser": "^3.10.0"
   },
@@ -27,6 +28,7 @@
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-config-typescript": "^3.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
+    "@types/js-cookie": "^2.2.7",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.10.0",
     "eslint-plugin-nuxt": "^1.0.0"

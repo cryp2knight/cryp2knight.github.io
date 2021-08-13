@@ -14,14 +14,32 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import Cookies from 'js-cookie'
+import { getRandomString } from '~/utils/helpers'
+
 export default Vue.extend({
+  computed: {
+    cookie (): string {
+      let cookie = Cookies.get('duid')
+      if (!cookie) {
+        cookie = getRandomString(16)
+        Cookies.set('duid', cookie, { expires: 365 })
+      }
+      return cookie
+    }
+  },
   watch: {
     $route () {
-      this.$store.dispatch('discordify', 'Someone visited your website. ')
+      this.discordify()
     }
   },
   mounted () {
-    this.$store.dispatch('discordify', 'Someone visited your website. ')
+    this.discordify()
+  },
+  methods: {
+    discordify () {
+      this.$store.dispatch('discordify', `Someone visited your website - \`${this.cookie}\` `)
+    }
   }
 })
 </script>
