@@ -22,7 +22,7 @@
 	header {
 		margin: 0;
 		padding: 4rem;
-		background: url('me_practice_biking.jpg');
+		background: url('/me_practice_biking.jpg');
 		background-position: center;
 		background-size: cover;
 		background-color: #ce931e;
