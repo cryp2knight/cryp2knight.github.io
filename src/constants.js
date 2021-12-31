@@ -4,6 +4,8 @@ export const BIO = 'fullstack web developer';
 
 export const MEDIUM_RSS = '/medium.json';
 export const GITHUB_USERNAME = 'cryp2knight';
+export const BANNER_IMAGE = '/me_practice_biking.jpg';
+export const WEBSITE_URL = 'https://danieldecastro.netlify.app';
 
 const links = {
 	email: {
@@ -24,7 +26,7 @@ const links = {
 	},
 	medium: {
 		icon: 'medium',
-		url: ''
+		url: 'https://decastrodanield.medium.com/'
 	}
 };
 

@@ -1,6 +1,7 @@
 <script>
 	import { TITLE } from '../constants';
 	import Intro from '../components/Intro.svelte';
+	export let github;
 </script>
 
 <section>
@@ -9,7 +10,7 @@
 		<a href="#projects">PROJECTS</a>
 		<a href="#blogs">BLOGS</a>
 	</nav>
-	<Intro />
+	<Intro githubBio={github.bio} />
 </section>
 
 <style>
