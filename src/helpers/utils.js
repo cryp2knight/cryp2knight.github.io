@@ -29,6 +29,9 @@ export async function discordify(msg) {
 	}
 	await fetch(ENV.discordHook, {
 		method: 'POST',
+		headers: {
+			'Content-Type': 'application/json'
+		},
 		body: JSON.stringify({
 			content: `${msg} \`${getTracker()}\` - ${window.location.href}`
 		})
