@@ -15,19 +15,19 @@
     <a href="mailto:decastrodanield@gmail.com">
         <img src="./icons/gmail.png" width=40 />
     </a>
-    <a href="mailto:decastrodanield@gmail.com">
+    <a href="https://github.com/cryp2knight">
         <img src="./icons/github.svg" width=30 />
     </a>
-    <a href="mailto:decastrodanield@gmail.com">
+    <a href="https://www.linkedin.com/in/decastrodanield">
         <img src="./icons/linkedin.svg" width=30 />
     </a>
-    <a href="mailto:decastrodanield@gmail.com">
+    <a href="https://twitter.com/dddc_10">
         <img src="./icons/twitter.svg" width=30 />
     </a>
-    <a href="mailto:decastrodanield@gmail.com">
+    <a href="https://decastrodanield.medium.com/">
         <img src="./icons/medium.svg" width=40 />
     </a>
-    <a href="mailto:decastrodanield@gmail.com">
+    <a href="https://unsplash.com/@danieldc10">
         <img src="./icons/unsplash.svg" width=30 />
     </a>
 </div>
