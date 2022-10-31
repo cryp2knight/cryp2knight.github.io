@@ -1,14 +1,3 @@
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164526558-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'UA-164526558-1');
-</script>
-<script src="./track.js"></script>
-
 # Daniel De Castro
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); align-items: center; gap: 10px; max-width: 500px">
