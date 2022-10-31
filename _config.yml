@@ -1,2 +1,13 @@
-name: "Daniel De Castro"
+name: Daniel De Castro
 title: null
+tagline: Daniel's awesome site
+image: https://source.unsplash.com/user/danieldc10
+twitter:
+  username: dddc_10
+  card: summary
+social:
+  name: Daniel De Castro
+  links:
+    - https://twitter.com/dddc_10
+    - https://www.linkedin.com/in/decastrodanield
+    - https://github.com/cryp2knight
