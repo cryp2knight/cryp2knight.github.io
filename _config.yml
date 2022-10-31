@@ -1,6 +1,9 @@
+plugins:
+  - jekyll-seo-tag
 name: Daniel De Castro
 title: null
 tagline: Daniel's awesome site
+description: Daniel's awesome site
 image: https://source.unsplash.com/user/danieldc10
 twitter:
   username: dddc_10
