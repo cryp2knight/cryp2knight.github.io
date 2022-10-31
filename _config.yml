@@ -1,5 +1,3 @@
-plugins:
-  - jekyll-seo-tag
 name: Daniel De Castro
 title: null
 tagline: Daniel's awesome site
@@ -14,3 +12,4 @@ social:
     - https://twitter.com/dddc_10
     - https://www.linkedin.com/in/decastrodanield
     - https://github.com/cryp2knight
+google_analytics: UA-164526558-1
