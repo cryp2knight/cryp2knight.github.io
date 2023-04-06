@@ -2,8 +2,6 @@
 
 [contact](mailto:decastrodanield@gmail.com) | [about](https://www.linkedin.com/in/decastrodanield) | [projects](https://github.com/cryp2knight) | [blog](https://decastrodanield.medium.com/) | [gallery](https://unsplash.com/@danieldc10) | [tweets](https://twitter.com/dddc_10)
 
----
-
 
 Hey there 👋, welcome to my corner of the internet! I’m Daniel, a full-time **software engineer** 💻 with a love for all things tech-related. When I’m not busy coding, you can usually find me out on my **bike** 🚲, exploring the great outdoors 🎒 and getting some much-needed exercise.
 
