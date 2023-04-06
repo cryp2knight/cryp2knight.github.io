@@ -1,36 +1,15 @@
-# Daniel De Castro
+# Daniel De Castro 👀
 
-<div style="display: grid; grid-template-columns: repeat(6, 1fr); align-items: center; gap: 10px; max-width: 500px">
-    <a href="mailto:decastrodanield@gmail.com">
-        <img src="./icons/gmail.png" width=40 />
-    </a>
-    <a href="https://github.com/cryp2knight">
-        <img src="./icons/github.svg" width=30 />
-    </a>
-    <a href="https://www.linkedin.com/in/decastrodanield">
-        <img src="./icons/linkedin.svg" width=30 />
-    </a>
-    <a href="https://twitter.com/dddc_10">
-        <img src="./icons/twitter.svg" width=30 />
-    </a>
-    <a href="https://decastrodanield.medium.com/">
-        <img src="./icons/medium.svg" width=40 />
-    </a>
-    <a href="https://unsplash.com/@danieldc10">
-        <img src="./icons/unsplash.svg" width=30 />
-    </a>
-</div>
-<br />
+[contact](mailto:decastrodanield@gmail.com) | [about](https://www.linkedin.com/in/decastrodanield) | [projects](https://github.com/cryp2knight) | [blog](https://decastrodanield.medium.com/) | [gallery](https://unsplash.com/@danieldc10) | [tweets](https://twitter.com/dddc_10)
 
-Welcome to my personal website! My name is Daniel and I am a full-time software engineer. In my professional life, I have a passion for coding and problem-solving. I have experience in a variety of programming languages and enjoy tackling challenging projects.
+---
 
-In my free time, I am an avid cyclist. I enjoy hitting the trails and roads on my bike, pushing myself to new limits and exploring the beautiful landscapes around me.
 
-In addition to my full-time job, I also have a passion for teaching. I am a part-time CS instructor at Batangas State University. I love sharing my knowledge and experience with my students and helping them develop their own skills in the field of computer science.
+Hey there 👋, welcome to my corner of the internet! I’m Daniel, a full-time **software engineer** 💻 with a love for all things tech-related. When I’m not busy coding, you can usually find me out on my **bike** 🚲, exploring the great outdoors 🎒 and getting some much-needed exercise.
 
-Overall, I am a dedicated and hardworking individual with a passion for technology and teaching. I am constantly learning and growing in my field, and I look forward to what the future holds for my career. Thank you for visiting my website and learning more about me.
+I’m also a part-time **CS instructor** at Batangas State University, where I get to share my knowledge and experience with the next generation of tech-savvy students. And if that wasn’t enough to keep me busy, I’m currently pursuing my masters in engineering in **Artificial Intelligence** at the University of the Philippines Diliman 🎓.
 
-Here's a random photo from my photo blog.
+So whether you’re here to check out some cool projects, read my latest blog posts, or just learn a little more about me, I’m glad you stopped by. Thanks for visiting! Oh, and before you go, here’s a random photo from my photo blog – enjoy!
 
 
 ![random photo](https://source.unsplash.com/user/danieldc10)
